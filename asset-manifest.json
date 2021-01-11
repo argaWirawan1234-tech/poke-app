@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/poke-app/static/css/main.c1eda085.chunk.css",
-    "main.js": "/poke-app/static/js/main.decdb082.chunk.js",
-    "main.js.map": "/poke-app/static/js/main.decdb082.chunk.js.map",
-    "runtime-main.js": "/poke-app/static/js/runtime-main.62223f71.js",
-    "runtime-main.js.map": "/poke-app/static/js/runtime-main.62223f71.js.map",
-    "static/js/2.28564287.chunk.js": "/poke-app/static/js/2.28564287.chunk.js",
-    "static/js/2.28564287.chunk.js.map": "/poke-app/static/js/2.28564287.chunk.js.map",
-    "static/js/3.0639c817.chunk.js": "/poke-app/static/js/3.0639c817.chunk.js",
-    "static/js/3.0639c817.chunk.js.map": "/poke-app/static/js/3.0639c817.chunk.js.map",
-    "index.html": "/poke-app/index.html",
-    "static/css/main.c1eda085.chunk.css.map": "/poke-app/static/css/main.c1eda085.chunk.css.map",
-    "static/js/2.28564287.chunk.js.LICENSE.txt": "/poke-app/static/js/2.28564287.chunk.js.LICENSE.txt",
-    "static/media/mypokeball.3a90cf96.png": "/poke-app/static/media/mypokeball.3a90cf96.png",
-    "static/media/not-available.png": "/poke-app/static/media/not-available.0e049a38.png",
-    "static/media/pokemon.css": "/poke-app/static/media/pokeball.5c8504a4.png"
+    "main.css": "/static/css/main.139717b5.chunk.css",
+    "main.js": "/static/js/main.decdb082.chunk.js",
+    "main.js.map": "/static/js/main.decdb082.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.65e438bc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.65e438bc.js.map",
+    "static/js/2.28564287.chunk.js": "/static/js/2.28564287.chunk.js",
+    "static/js/2.28564287.chunk.js.map": "/static/js/2.28564287.chunk.js.map",
+    "static/js/3.0639c817.chunk.js": "/static/js/3.0639c817.chunk.js",
+    "static/js/3.0639c817.chunk.js.map": "/static/js/3.0639c817.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.139717b5.chunk.css.map": "/static/css/main.139717b5.chunk.css.map",
+    "static/js/2.28564287.chunk.js.LICENSE.txt": "/static/js/2.28564287.chunk.js.LICENSE.txt",
+    "static/media/mypokeball.3a90cf96.png": "/static/media/mypokeball.3a90cf96.png",
+    "static/media/not-available.png": "/static/media/not-available.0e049a38.png",
+    "static/media/pokemon.css": "/static/media/pokeball.5c8504a4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.62223f71.js",
+    "static/js/runtime-main.65e438bc.js",
     "static/js/2.28564287.chunk.js",
-    "static/css/main.c1eda085.chunk.css",
+    "static/css/main.139717b5.chunk.css",
     "static/js/main.decdb082.chunk.js"
   ]
 }
